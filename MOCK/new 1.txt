@@ -1,0 +1,13 @@
+FAT12 lưu trữ size nhỏ
+fat16 luawu trữ size lơn hơn 
+fat32 
+fat32 khác fat 12/16 
++cấu trúc 1 ôe  ida
+lay out 
+boot block = (sector)
+FAT dưa trê kich thưcos 
+root diẻctory 
+thư mục đầu 
+khu vực lưu trữ
+
++
